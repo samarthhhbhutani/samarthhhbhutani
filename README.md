@@ -2,13 +2,12 @@
 
 
 
-- 👩‍🎓 Computer Science junior at Delhi Technological University
+- 👩‍🎓 Computer Science junior at **Delhi Technological University.**
   
-- 👩‍💻 I love to code in C++ and Python
-
-- 🌱 Currently working on DSA and Deep Learning
-
 - 👩‍💻 I love to code in **C++ and Python.**
+
+- 🌱 Currently working on **DSA and Deep Learning.**
+
 
 - 📫 Reach me at: <a href="mailto:samarth.bhutaniii@gmail.com" target="_blank">samarth.bhutaniii@gmail.com</a>
 
