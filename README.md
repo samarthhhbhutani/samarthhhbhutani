@@ -1,10 +1,21 @@
--  **Hi👋 I’m Samarth Bhutani**
-- 👩‍🎓 Computer Science junior at Delhi Technological University
-- 🌱 Currently working on DSA and Deep Learning
-- 👩‍💻 I love to code in C++ and Python
-- 📫  Reach me at: <a href="mailto:samarth.bhutaniii@gmail.com" target="_blank">samarth.bhutaniii@gmail.com</a>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rhytham Aggarwal</h1>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1mNDJyOWlhN3U2a3RiM2lsMWdwNm9uNmFlcHoxMG8xNWl2ZmNmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<!---
-samarthhhbhutani/samarthhhbhutani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+- 👩‍🎓 Computer Science junior at Delhi Technological University
+  
+- 👩‍💻 I love to code in C++ and Python
+
+- 🌱 Currently working on DSA and Deep Learning
+
+- 👩‍💻 I love to code in **C++ and Python.**
+
+- 📫 Reach me at: <a href="mailto:samarth.bhutaniii@gmail.com" target="_blank">samarth.bhutaniii@gmail.com</a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rhytham-aggarwal-679821250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samarth Bhutani" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/aggrhythm](https://leetcode.com/u/samarthhbhutani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarthhbhutani" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/556e4c25-2e0e-4837-b2dd-c5750f816657" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:278/1*WvpwxWJuPgqLPXk6tNYNSw.png" alt="samarthhbhutani" height="30" width="40" /></a>
+</p>
