@@ -8,7 +8,7 @@
   
 - 👩‍💻 I love to code in **C++ and Python.**
 
-- 🌱 Currently working on **DSA and Deep Learning.**
+- 🌱 Currently working on **DSA and Backend.**
 
 
 - 📫 Reach me at: <a href="mailto:samarth.bhutaniii@gmail.com" target="_blank">samarth.bhutaniii@gmail.com</a>
