@@ -2,7 +2,9 @@
 
 
 
-- 👩‍🎓 Computer Science junior at **Delhi Technological University.**
+- 👩‍🎓 Computer Science student at **Delhi Technological University.**
+
+- 👩‍🎓 Interning at Amazon. Ex-Cisco.**
   
 - 👩‍💻 I love to code in **C++ and Python.**
 
