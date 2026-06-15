@@ -4,7 +4,7 @@
 
 - 👩‍🎓 Computer Science student at **Delhi Technological University.**
 
-- 👩‍🎓 Interning at Amazon. Ex-Cisco.**
+- 👨‍💻 Interning at **Amazon. Ex-Cisco.**
   
 - 👩‍💻 I love to code in **C++ and Python.**
 
